@@ -1,2 +1,5 @@
 *.exe
 .vscode/
+output/
+test.c
+test.cpp
