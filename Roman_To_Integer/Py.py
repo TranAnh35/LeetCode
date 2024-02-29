@@ -22,8 +22,8 @@ class Solution:
     
 if __name__ == "__main__":
     s = Solution()
-    print(s.romanToInt("III")) # 3
-    print(s.romanToInt("IV")) # 4
-    print(s.romanToInt("IX")) # 9
-    print(s.romanToInt("LVIII")) # 58
-    print(s.romanToInt("MCMXCIV")) # 1994
+    print(s.romanToInt("III"))
+    print(s.romanToInt("IV"))
+    print(s.romanToInt("IX"))
+    print(s.romanToInt("LVIII"))
+    print(s.romanToInt("MCMXCIV"))
