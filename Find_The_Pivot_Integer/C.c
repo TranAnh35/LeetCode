@@ -14,10 +14,10 @@ int pivotInteger(int n) {
     // return -1;
 
     int sum = n * (n + 1) / 2;
-        if(sqrt(sum) == (int)sqrt(sum)){
-            return sqrt(sum);
-        }
-        return -1;
+    if(sqrt(sum) == (int)sqrt(sum)){
+        return sqrt(sum);
+    }
+    return -1;
 }
 
 int main(){
